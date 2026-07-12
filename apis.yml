@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://placekeanu.com/
 common:
+  - type: DomainSecurity
+    url: security/placekeanu-domain-security.yml
   - type: Website
     url: https://placekeanu.com/
   - type: PublicAPIsListing
