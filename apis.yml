@@ -39,7 +39,6 @@ apis:
   - name: PlaceKeanu
     description: "Resizable Keanu Reeves placeholder images with grayscale and young Keanu options"
     humanURL: https://placekeanu.com/
-    baseURL: https://placekeanu.com/
     tags:
       - Photography
     properties:
